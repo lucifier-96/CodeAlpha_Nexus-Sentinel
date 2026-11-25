@@ -4,3 +4,15 @@ __pycache__/
 *.db
 .env
 *.log
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Database and logs
+*.db
+*.log
+
+# Secrets
+.env
